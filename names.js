@@ -4,7 +4,7 @@ function setup() {
 	console.log("setting up");
 	
 	change();
-	setInterval(change, 400);
+	// setInterval(change, 400);
 }
 
 function change() {
@@ -106,7 +106,6 @@ names = [
 '...',
 'sonic the hedgehog',
 'burns hotsguy',
-'jontron',
 'baby sparks mcgeezacs',
 'flamey something',
 'hey, listen',
@@ -163,7 +162,8 @@ names = [
 'screamo beamo',
 'splash woman',
 'fumes mcgrizzlebeef',
-'salty greg'
+'salty greg',
+'are undertale spoilers okay now in 2018'
 ]
 
 setup();
